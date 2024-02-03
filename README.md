@@ -6,7 +6,7 @@ Scripts to spin up dockerized `bash` shells to perform quick work.
 
 ## Usage
 
-Start a shell (host is mounted on `/host`):
+Start a shell:
 
 ```sh
 ./bash.sh
