@@ -25,6 +25,6 @@ Notes:
 - Customize the script before running it
 - Default user is `user` with same UID as the script caller
 - host filesystem is mounted on `/host`
-- `~/.bash_aliases` is mounted on `/home/user/bash_aliases`
-- `~/.bashrc` is mounted on `/home/user/bashrc`
+- `~/.bash_aliases` is mounted on `/home/user/.bash_aliases`
+- `~/.bashrc` is mounted on `/home/user/.bashrc`
 - `~/.git-credentials` is mounted on `/home/user/.git-credentials` (for `git` variants)
