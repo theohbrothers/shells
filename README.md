@@ -1,6 +1,6 @@
 # Shells
 
-[![github-actions](https://github.com/theohbrothers/shells/actions/workflows/ci-master-pr.yaml/badge.svg)](https://github.com/theohbrothers/shells/actions/workflows/ci-master-pr.yaml)
+[![github-actions](https://github.com/theohbrothers/shells/actions/workflows/ci-master-pr.yml/badge.svg?branch=master)](https://github.com/theohbrothers/shells/actions/workflows/ci-master-pr.yml)
 
 Scripts to spin up dockerized `bash` shells to perform quick work.
 
